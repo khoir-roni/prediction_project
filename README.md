@@ -1,7 +1,7 @@
 # Temperature-Winding-Prediction
 Proyek Prediksi Temperature Winding
 
-
+/n
 [ Assets Canva ]
 https://www.canva.com/design/DAGdrqAULik/WTWGdHTvsQcg_4i1exmIjw/edit?utm_content=DAGdrqAULik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
