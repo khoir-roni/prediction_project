@@ -1,5 +1,5 @@
-# Temperature-Winding-Prediction
-Proyek Prediksi Temperature Winding
+# Berkas KP PLN IP UBP Saguling 
+Terdapat 2 File Aplikasi, Yakni untuk Aplikasi Temperature Prediction dan Aplikasi Data Barang
 
 
 ## Assets Canva 
