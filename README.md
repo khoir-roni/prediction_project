@@ -31,7 +31,7 @@ sebagai catatan kami menggunakan postgresql
 1. Install Vs Code
 2. Masuk kan file Aplikasi yang diinginkan sebagai Worksheet
 3. buka folder flask_api_project kemudian masuk ke script app.py
-4. Ada bagian koneksi database baris 21 sampai 35 (untuk temperature winding) dan 17 sampai 30 untuk data barang.
+4. Ada bagian koneksi database baris 21 sampai 35 untuk temperature winding dan 17 sampai 30 untuk data barang.
 5. Database yang digunakan harus memuat class yang ada di baris diatas
 6. ketikkan python app.py
 7. jalan kan ulang main.dart
