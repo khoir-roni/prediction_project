@@ -37,7 +37,6 @@ sebagai catatan kami menggunakan postgresql
 7. jalan kan ulang main.dart
 
 
-
 # Cara Menjalankan Server local
 1. Install Vs Code
 2. Masuk kan file Aplikasi yang diinginkan sebagai Worksheet
@@ -47,5 +46,6 @@ sebagai catatan kami menggunakan postgresql
 6. ketikkan flutter run di terminal vscode
 
 # Catatan
+- Silakan Install terlebih dahulu library yang diperlukan agar tidak terdapat error saat dirun
 - Apabila ingin tetap menggunakan Ngrok sebagai server harap buat akun dan jalankan ngroknya pada terminal computer
 - Apablia ingin tetap menggunakan postgresql sebagai database, buat databses di posgrenya dan buat tabel yang sesuai dengan class yang disebutkan di atas
