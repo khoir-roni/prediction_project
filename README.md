@@ -44,6 +44,6 @@ sebagai catatan kami menggunakan postgresql
 3. buka folder flask_api_project kemudian masuk ke script app.py
 4. ketikkan python app.py
 5. Ubahlah Link Server sesuai yang anda inginkan (dalam kasus kami menggunakan ngrok), buka folder lib dan pilih file main.dart di folder aplikasi (temperature winding atau data barang) kemudian untuk setiap variabel final uri (baris 124,257, dan 407) ganti dengan link server yang digunakan ( dalam kasus kami final uri = Uri.parse('https://sloth-sure-genuinely.ngrok-free.app/upload');) hanya ganti dari https://sloth-sure-genuinely.ngrok-free.app saja pada setiap final uri
-6. ketikkan flutter run
+6. ketikkan flutter run di terminal vscode
 
  
