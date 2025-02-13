@@ -9,6 +9,7 @@ Menggunakan Drive karena file terlalu banyak dan besar
 Terdapat 2 File Aplikasi, Yakni untuk Aplikasi Temperature Prediction dan Aplikasi Data Barang
 
 
+# Assets Aplikasi
 ## Assets Canva 
 
 https://www.canva.com/design/DAGdrqAULik/WTWGdHTvsQcg_4i1exmIjw/edit?utm_content=DAGdrqAULik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
