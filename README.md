@@ -47,3 +47,5 @@ sebagai catatan kami menggunakan postgresql
 6. ketikkan flutter run di terminal vscode
 
  
+Apabila ingin tetap menggunakan Ngrok sebagai server harap buat akun dan jalankan ngroknya pada terminal computer
+Apablia ingin tetap menggunakan postgresql sebagai database, buat databses di posgrenya dan buat tabel yang sesuai dengan class yang disebutkan di atas
