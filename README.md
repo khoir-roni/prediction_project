@@ -32,7 +32,7 @@ sebagai catatan kami menggunakan postgresql
 2. Masuk kan file Aplikasi yang diinginkan sebagai Worksheet
 3. buka folder flask_api_project kemudian masuk ke script app.py
 4. Ada bagian koneksi database baris 21 sampai 35 untuk temperature winding dan 17 sampai 30 untuk data barang.
-5. Database yang digunakan harus memuat class yang ada di baris diatas
+5. Database yang digunakan harus memuat class yang ada di baris diatas (tabelnya harus sama)
 6. ketikkan python app.py
 7. jalan kan ulang main.dart
 
@@ -46,6 +46,6 @@ sebagai catatan kami menggunakan postgresql
 5. Ubahlah Link Server sesuai yang anda inginkan (dalam kasus kami menggunakan ngrok), buka folder lib dan pilih file main.dart di folder aplikasi (temperature winding atau data barang) kemudian untuk setiap variabel final uri (baris 124,257, dan 407) ganti dengan link server yang digunakan ( dalam kasus kami final uri = Uri.parse('https://sloth-sure-genuinely.ngrok-free.app/upload');) hanya ganti dari https://sloth-sure-genuinely.ngrok-free.app saja pada setiap final uri
 6. ketikkan flutter run di terminal vscode
 
- 
-Apabila ingin tetap menggunakan Ngrok sebagai server harap buat akun dan jalankan ngroknya pada terminal computer
-Apablia ingin tetap menggunakan postgresql sebagai database, buat databses di posgrenya dan buat tabel yang sesuai dengan class yang disebutkan di atas
+# Catatan
+- Apabila ingin tetap menggunakan Ngrok sebagai server harap buat akun dan jalankan ngroknya pada terminal computer
+- Apablia ingin tetap menggunakan postgresql sebagai database, buat databses di posgrenya dan buat tabel yang sesuai dengan class yang disebutkan di atas
