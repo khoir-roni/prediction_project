@@ -1,4 +1,11 @@
 # Berkas KP PLN IP UBP Saguling 
+## File Aplikasi ada di Link Drive Berikut
+Menggunakan Drive karena file terlalu banyak dan besar
+
+
+[Drive] : https://drive.google.com/drive/folders/1eyo-83THayv1950JHSFkXu2aCLMJ6j2P?usp=sharing
+
+
 Terdapat 2 File Aplikasi, Yakni untuk Aplikasi Temperature Prediction dan Aplikasi Data Barang
 
 
